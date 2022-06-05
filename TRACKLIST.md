@@ -55,3 +55,4 @@
 - Great Balls Of Fire
 - Buddy Holly - That'll Be The Day
 - Everly Brothers - Wake Up Little Susie
+- Pete Drake & his talking steel guitar - "Forever"
