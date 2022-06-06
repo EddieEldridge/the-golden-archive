@@ -1,5 +1,5 @@
 
-![Header](https://user-images.githubusercontent.com/22448079/172046419-7f3e8c9d-9060-42ec-94e8-737bc0ce2bce.png)
+![Header](https://user-images.githubusercontent.com/22448079/172238001-6ac0707b-d0b3-4739-b580-9d72ef5ceb3f.png)
 
 <h2 align="center">
   <p>Untouched by the war and kept hidden, deep in the vaults of the Tops Hotel and Casino, Mr. New Vegas and his team have unearthed a plethora of classic hits for all you wastelanders...</p>
@@ -63,5 +63,10 @@ To install the mod, simply navigate to the [releases]() tab, download the .zip f
 ## **Credits**
 - All the artists involved!
 - Jarol for his mod "[Extended New Vegas Radio Generator](https://www.nexusmods.com/newvegas/mods/36835?tab=description)". Without it, none of this would be possible.
+<<<<<<< HEAD
 - Peter for his "[Foobar2000 - Text Tools plugin"](https://www.foobar2000.org/components/view/foo_texttools)
 - Epsil for his amazing website ["Spotify Playlist Generator"](https://epsil.github.io/spotgen/)
+=======
+- Peter for his "[Foobar2000 - Text Tools plugin](https://www.foobar2000.org/components/view/foo_texttools)
+- Epsil for his amazing website ["Spotify Playlist Generator"](https://epsil.github.io/spotgen/)
+>>>>>>> 04b4112273328fd021f25e59a33525c84f32f235
