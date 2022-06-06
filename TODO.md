@@ -9,7 +9,7 @@
 * Write credits
 
 ## Mod
-* Download music
-* Review and choose
+* ~Download music~
+* ~Review and choose~
 * Convert to FLAC if not
 * Export filenames somehow with Foobar (too many to manually write)
