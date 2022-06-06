@@ -57,5 +57,7 @@ To install the mod, simply navigate to the [releases]() tab, download the .zip f
 - Jarol for his mod "[Extended New Vegas Radio Generator](https://www.nexusmods.com/newvegas/mods/36835?tab=description)". Without it, none of this would be possible.
 - Peter for his "[Foobar2000 - Text Tools plugin"](https://www.foobar2000.org/components/view/foo_texttools)
 - Epsil for his amazing website ["Spotify Playlist Generator"](https://epsil.github.io/spotgen/)
+- lStewieAl's for his tweaks to the in-game radio with ["lStewieAl's Tweaks and Engine Fixes"](https://www.nexusmods.com/newvegas/mods/66347)
+
 - Mat, Bear and Megan for the song suggestions.
 
