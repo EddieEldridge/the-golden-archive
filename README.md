@@ -5,9 +5,9 @@
   <p>Untouched by the war and kept hidden, deep in the vaults of the Tops Hotel and Casino, Mr. New Vegas and his team have unearthed a plethora of classic hits for all you wastelanders...</p>
 </h2>
 
-<h4 align="center">
+<h3 align="center">
   <p>A Fallout: New Vegas mod that greatly extends Radio New Vegas with 200+ lore friendly tracks</p>
-</h4>
+</h3>
 
 ## **Features**
 - Extends "Radio New Vegas" with 200+ lore friendly tracks, retaining Mr. New Vegas and the original music of the game
