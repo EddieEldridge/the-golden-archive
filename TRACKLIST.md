@@ -1,8 +1,7 @@
-# Radio New Vegas: Ultimate Edition - Tracklist
+# Radio New Vegas: The Golden Archive - Tracklist
 
 ## Artists
 
-### Added
 - Elvis Presley
 - Louis Armstrong
 - Johhny Cash
@@ -51,8 +50,6 @@
 - Charley Pride
 - Kenny Rogers
 - Evan O'Donnell
-
-### To-Do
 - The Highwaymen 
 
 ## Songs
@@ -86,5 +83,238 @@
 - John Denver - Take Me Home, Country Roads
 - Love's Gonna Live Here
 - Evan O'Donnell - Hello Mr. Heartache
-
-### To-Do
+- Nancy Sinatra - Bang Bang (My Baby Shot Me Down)
+- Charlie Feathers - That Certain Female
+- Ennio Morricone - Il Tramonto
+- Luis Bacalov - The Grand Duel - (Parte Prima)
+- Alan Reeves, Phil Steele and Philip Brigham - The Chase
+- Isaac Hayes - Run Fay Run
+- Al Hirt - Green Hornet
+- Tomoyasu Hotei - Battle Without Honor Or Humanity
+- Johnny Cash - A Satisfied Mind
+- Malcolm McLaren - About Her
+- Meiko Kaji - The Flower Of Carnage
+- Zamfir - The Lonely Shepherd
+- Bill Elm and Woody Jackson - (Theme From) Red Dead Redemption
+- The Who - Pinball Wizard
+- The Who - Baba O'Riley
+- Nat King Cole - Get Your Kicks on Route 66
+- Johnny Cash - Long Black Veil
+- Fleetwood Mac - The Chain
+- The Seatbelts/Yoko Kanno - Tank!
+- Nancy Sinatra - These Boots Are Made For Walking
+- Frank Sinatra - I've Got the World On a String
+- Link Wray - Rumble
+- Eddie Cochran  - C'mon Everybody
+- Solomon Burke - Don't Give Up on Me
+- Ennio Morricone - L'uomo dell'armonica (From "C'era una volta il - west")
+- Dean Martin - Everybody Loves Somebody
+- Johnny Cash - I Walk the Line
+- Marvin Gaye - I Want You
+- Janis Joplin - Me and Bobby McGee
+- Eddie Cochran  - Summertime Blues
+- The Animals - House of the Rising Sun
+- Yusef Lateef - The Plum Blossom
+- The Kinks - You Really Got Me  (2014 Remastered Version)
+- The 13th Floor Elevators - You're Gonna Miss Me
+- Stevie Wonder - For Once In My Life
+- James Brown - I Got You (I Feel Good)
+- Stevie Wonder - Superstition
+- Elvis Presley - Suspicious Minds
+- Otis Redding - These Arms Of Mine
+- Miles Davis - Round Midnight
+- Fleetwood Mac - Dreams
+- Buddy Holly - Heartbeat
+- Dolly Parton - Just Because I'm A Woman
+- PC - Patti Page - (How Much Is) That Doggie In the Window
+- The Seatbelts/Yoko Kanno - Rush
+- Miles Davis - Freddie Freeloader
+- Frank Sinatra - My Funny Valentine
+- Solomon Burke - Fast Train
+- Eddie Cochran  - Teenage Heaven
+- The Troggs - Love Is All Around (Rerecorded)
+- Eddie Cochran  - Threesteps To Heaven
+- Dean Martin - You're Nobody Till Somebody Loves You
+- Stevie Wonder - Sir Duke
+- YUSEF LATEEF - Like It Is
+- Johnny Cash - Redemption Song (Feat. Joe Strummer)
+- Johnny Cash - Trouble In Mind
+- Buddy Holly - Everyday
+- Kool And The Gang - Jungle Boogie
+- Nancy Sinatra - Something Stupid (With Frank Sinatra)
+- The Seatbelts/Yoko Kanno - Spokey Dokey
+- Frank Sinatra - Young At Heart
+- Solomon Burke - Diamond in Your Mind
+- Ennio Morricone & Edda Dell'orso - A Fistful of Dynamite (From "A - Fistful of Dynamite / Giù la testa")
+- Aretha Franklin - Respect
+- The Animals - We've Gotta Get out of This Place
+- Van Morrison - Moondance
+- Marty Robbins - I'm Gonna Be a Cowboy
+- Ennio Morricone & Edda Dell'orso - The Ecstasy of Gold (From "The - Good, the Bad and the Ugly")
+- Solomon Burke - Flesh and Blood
+- Jimi Hendrix - All Along The Watchtower
+- The Rolling Stones - Gimme Shelter
+- The Rolling Stones - Paint It, Black
+- Stevie Wonder - Signed, Sealed, Delivered I'm Yours
+- Nat King Cole - Faith Can Move Mountains
+- Marty Robbins - (Ghost) Riders in the Sky
+- Nancy Sinatra - Summer Wine (With Lee Hazlewood)
+- Yusef Lateef - Love Theme From 'Spartacus'
+- Big Brother & the Holding Company - Piece of My Heart
+- Fleetwood Mac - Go Your Own Way
+- Van Morrison - Have I Told You Lately
+- Dolly Parton - Coat Of Many Colors
+- Willie Nelson - A Beautiful Time
+- Delegation - Oh Honey
+- Ennio Morricone - The Good, the Bad and the Ugly (From "The Good, - the Bad and the Ugly")
+- Aretha Franklin - The House That Jack Built
+- Dusty Springfield - All I See Is You
+- Elvis Presley - For The Good Times
+- Stevie Wonder - I Just Called To Say I Love You
+- Miles Davis - Blues for Pablo
+- Johnny Cash - Hard Times
+- Johnny Cash - Heart Of Gold
+- Buddy Holly - Early In The Morning
+- Dolly Parton - Old Flames Can't Hold A Candle To You
+- Dusty Springfield - Son Of A Preacher Man
+- Frank Sinatra - I've Got You Under My Skin
+- Billie Holiday - Solitude
+- Fleetwood Mac - The Chain
+- Buddy Holly - Baby, Won't You Come Out Tonight
+- Billie Holiday & Her Orchestra - Night and Day
+- Buddy Holly - Peggy Sue
+- Nancy Sinatra - Son Of A Preacher Man
+- Bill Elm and Woody Jackson - (Theme From) Red Dead Redemption
+- Willie Nelson - Dusty Bottles
+- Billie Holiday - Easy Living
+- Johnny Cash - Ring of Fire
+- Dean Martin - Somewhere There's A Someone 
+- Aretha Franklin - Think
+- Otis Redding - (I Can't Get No) Satisfaction
+- The Rolling Stones - Sympathy For The Devil
+- Stevie Wonder - You Are The Sunshine Of My Life
+- Dolly Parton - Jolene
+- Willie Nelson - Me And My Partner
+- Elvis Presley - There Goes My Everything
+- Miles Davis - Miles
+- Johnny Cash - Big Iron
+- Johnny Cash - I'm Going To Memphis
+- Urge Overkill - Girl, You'll Be A Woman Soon
+- Frank Sinatra - All the Way
+- Aretha Franklin - I Say A Little Prayer
+- Eddie Cochran  - Rock And Roll Blues
+- James Brown - Try Me
+- Frank Sinatra - Come Fly With Me
+- The Kinks - All Day and All of the Night  (2014 Remastered Version)
+- Big Brother & the Holding Company - Summertime
+- Otis Redding - Try A Little Tenderness
+- Johnny Cash - Hung My Head
+- Dolly Parton - Islands In The Stream (With Kenny Rogers)
+- Frank Sinatra - Angel Eyes
+- The Rolling Stones - (I Can't Get No) Satisfaction
+- Johnny Cash - The Man Comes Around
+- Johnny Cash - You Are My Sunshine
+- Buddy Holly - Girl On My Mind
+- Frank Sinatra - Nice 'n' Easy
+- Johnny Cash - (Ghost) Riders in the Sky
+- Aretha Franklin - You Make Me Feel (Like A Natural Woman)
+- Marty Robbins - Feleena (From El Paso)
+- Johnny Cash - Jackson
+- Dean Martin - You've Still Got A Place In My Heart
+- Johnny Cash - Hurt
+- Frank Sinatra - The Way You Look Tonight
+- Ennio Morricone - The Wild Horde (From "My Name is Nobody")
+- Otis Redding - (Sittin' On) The Dock Of The Bay
+- James Brown - The Payback
+- The Seatbelts/Yoko Kanno - Digging My Potato
+- Jose Gonzalez - Far Away
+- Stevie Wonder - Higher Ground
+- Fleetwood Mac - Storms
+- Marty Robbins - I Walk Alone
+- Nancy Sinatra - Tony Rome
+- Jamie Lidell - Compass (Red Dead On Arrival Version)
+- Billie Holiday - God Bless the Child
+- Dusty Springfield - I Only Want To Be With You
+- Link Wray And His Ray Men - Rumble
+- Buddy Holly - That'll Be The Day
+- Ashtar Command - Deadman's Gun
+- Frank Sinatra - It Was a Very Good Year
+- Ray Charles - I Got A Woman
+- William Elliot Whitmore - Bury Me Not On The Lone Prairie
+- Frank Sinatra - Strangers In the Night
+- Link Wray - Switchblade
+- Frank Sinatra - Summer Wind
+- Johnny Cash - Wanted Man
+- Marty Robbins - Song of the Bandit
+- Frank Sinatra - That's Life
+- Frank Sinatra - My Way
+- Ennio Morricone - Canto a mia tierra (From "The Mercenary")
+- Marty Robbins - El Paso City
+- Elvis Presley - Blue Suede Shoes
+- Marty Robbins - All the Way
+- The Doors - Riders On The Storm
+- Nat King Cole - When I Fall in Love
+- Elvis Presley - Jailhouse Rock
+- Nat King Cole - I'm Thru' with Love
+- Elvis Presley - Viva Las Vegas
+- Nat King Cole - You're Nobody Till Somebody Loves You
+- Nat King Cole - You Call It Madness but I Call It Love
+- All I Have To Do Is Dream - Everly Brothers
+- Frank Sinatra - All the Way
+- Frank Sinatra - Angel Eyes
+- Bill Haley - Rock Around The Clock
+- PC - Billie Holiday & Her Orchestra - Night and Day
+- Buck Owens  Love's Gonna Live Here
+- Charley Pride Kiss an angel good morning Lyrics
+- Frank Sinatra - Come Fly With Me
+- Jamie Lidell - Compass (Red Dead On Arrival Version)
+- Ashtar Command - Deadman's Gun
+- Dean Martin - Memories are made of this
+- Solomon Burke - Diamond in Your Mind
+- The Seatbelts/Yoko Kanno - Digging My Potato
+- Solomon Burke - Don't Give Up on Me
+- Evan O'Donnell - Hello Mr. Heartache
+- Everly Brothers - Wake Up Little Susie
+- Jose Gonzalez - Far Away
+- Solomon Burke - Fast Train
+- Fleetwood Mac ~ Albatross  (1968)
+- Solomon Burke - Flesh and Blood
+- Forever - Pete Drake - Forever (1964)
+- Miles Davis - Freddie Freeloader
+- Urge Overkill - Girl, You'll Be A Woman Soon
+- Glen Campbell - Rhinestone Cowboy (Lyrics)
+- Glen Campbell - Southern Nights
+- Urge Overkill - Girl, You'll Be A Woman Soon
+- I Think I'll Just Stay Here And Drink
+- Frank Sinatra - It Was a Very Good Year
+- Frank Sinatra - I've Got the World On a String
+- Frank Sinatra - I've Got You Under My Skin
+- Jefferson Airplane - White Rabbit (Audio)
+- John Denver - Take Me Home, Country Roads (Audio)
+- John Lee Hooker - Boom Boom
+- Kool And The Gang - Jungle Boogie
+- Kenny Rogers - Coward Of The County (Audio)
+- Kenny Rogers - The Gambler
+- Al Green - Let's Stay Together
+- Yusef Lateef - Love Theme From 'Spartacus'
+- Frank Sinatra - My Funny Valentine
+- Frank Sinatra - My Way
+- Frank Sinatra - Nice 'n' Easy
+- Delegation - Oh Honey
+- PC - Patti Page - (How Much Is) That Doggie In the Window?
+- Link Wray And His Ray Men - Rumble
+- The Seatbelts/Yoko Kanno - Rush
+- Dusty Springfield - Son Of A Preacher Man
+- The Seatbelts/Yoko Kanno - Spokey Dokey
+- Frank Sinatra - Strangers In the Night
+- Frank Sinatra - Summer Wind
+- The Seatbelts/Yoko Kanno - Tank!
+- Tennessee Ernie Ford - 16 Tons
+- Frank Sinatra - That's Life
+- The Fightin' Side Of Me
+- The Mamas & The Papas - California Dreamin'
+- The Platters - The Great Pretender (Original Footage HD)
+- Yusef Lateef - The Plum Blossom
+- Frank Sinatra - The Way You Look Tonight
+- Van Morrison Into The Mystic
+- Frank Sinatra - Young At Heart
