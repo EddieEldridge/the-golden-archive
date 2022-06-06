@@ -1,14 +1,13 @@
 
 ![Header](https://user-images.githubusercontent.com/22448079/172046419-7f3e8c9d-9060-42ec-94e8-737bc0ce2bce.png)
 
-
 <h2 align="center">
-  <p>A Fallout: New Vegas mod that greatly extends Radio New Vegas with 200+ lore friendly tracks</p>
-</h1>
-
-<h3 align="center">
   <p>Untouched by the war and kept hidden, deep in the vaults of the Tops Hotel and Casino, Mr. New Vegas and his team have unearthed a plethora of classic hits for all you wastelanders...</p>
-</h3>
+</h2>
+
+<h4 align="center">
+  <p>A Fallout: New Vegas mod that greatly extends Radio New Vegas with 200+ lore friendly tracks</p>
+</h4>
 
 ## **Features**
 - Extends "Radio New Vegas" with 200+ lore friendly tracks, retaining Mr. New Vegas and the original music of the game
@@ -52,6 +51,8 @@ Some of my favorite tracks include
 - The Seatbelts - Tank!
 - Zamfir - The Lonely Shephard
 
+If you have recommendations, please feel free to start a discussion here
+
 And many, many more! For a full list of all tracks included, see the [tracklist](TRACKLIST.md)!
   
 ## **Installation**
@@ -62,5 +63,5 @@ To install the mod, simply navigate to the [releases]() tab, download the .zip f
 ## **Credits**
 - All the artists involved!
 - Jarol for his mod "[Extended New Vegas Radio Generator](https://www.nexusmods.com/newvegas/mods/36835?tab=description)". Without it, none of this would be possible.
-- Peter for his "[Foobar2000 - Text Tools plugin](https://www.foobar2000.org/components/view/foo_texttools)
+- Peter for his "[Foobar2000 - Text Tools plugin"](https://www.foobar2000.org/components/view/foo_texttools)
 - Epsil for his amazing website ["Spotify Playlist Generator"](https://epsil.github.io/spotgen/)
