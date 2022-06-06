@@ -37,13 +37,20 @@
 - Chuck berry
 - Santo and Johnny
 - The Who
-- Beatles
 - Animals
 - 13th Floor Elevators
 - Doors
 - Kinks
 - Janis Joplin
 - Pink Floyd
+- Dolly Parton
+- The Animals
+- John Denver
+- Glen Campbell
+- Merle Haggard
+- Charley Pride
+- Kenny Rogers
+- Evan O'Donnell
 
 ### To-Do
 - The Highwaymen 
@@ -68,6 +75,16 @@
 - Fleetwood Mac - Albatross
 - Hit the Road Jack - Ray Charles
 - Into the Mystic - Van Morrison
-
+- Glen Campbell - Rhinestone Cowboy
+- Glen Campbell - Southern Nights
+- Merle Haggard - Fightin Side Of Me
+- Merle Haggard - I Think I'll Just Stay Here and Drink
+- Merle Haggard - Big City
+- Charley Pride - Kiss an Angel Good Mornin'
+- Kenny Rogers - The Gambler
+- Kenny Rogers - Coward of the County
+- John Denver - Take Me Home, Country Roads
+- Love's Gonna Live Here
+- Evan O'Donnell - Hello Mr. Heartache
 
 ### To-Do
