@@ -22,7 +22,7 @@
 
  
 ![Install](https://user-images.githubusercontent.com/22448079/172240403-0225333d-4069-40e7-8882-addadde86ae3.png)
-To install the mod, simply navigate to the [releases]() tab, download the .zip file and install with your mod manager of choice. I recommend Mod Organizer 2.
+To install the mod, simply navigate to the [releases](https://github.com/EddieEldridge/the-golden-archive/releases/latest) tab, download the .zip file and install with your mod manager of choice. I recommend Mod Organizer 2.
 
 ![Music](https://user-images.githubusercontent.com/22448079/172239704-02a6137a-83b6-4f12-a480-70891b2b76fb.png)
 
