@@ -4,7 +4,7 @@
 
 - Elvis Presley
 - Louis Armstrong
-- Johhny Cash
+- Johnny Cash
 - Frank Sinatra
 - Billie Holiday
 - John Coltrane
@@ -26,7 +26,7 @@
 - Aretha Franklin
 - Marty Robinns
 - Willie Nelson
-- Johhny Lee Hooker
+- Johnny Lee Hooker
 - Gene Pitney
 - Wanda Jackson
 - Eddie Cochran
