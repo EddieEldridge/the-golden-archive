@@ -14,13 +14,20 @@
 -  Changes all world radios and jukeboxes that use "Mojave Radio" to "Radio New Vegas" allowing you to hear the new music naturally as well as on the Pip-Boy
 - All tracks have been normalized to keep audio levels in-line 
 
+ 
+![Install](https://user-images.githubusercontent.com/22448079/172240403-0225333d-4069-40e7-8882-addadde86ae3.png)
+To install the mod, simply navigate to the [releases]() tab, download the .zip file and install with your mod manager of choice. I recommend Mod Organizer 2.
+
 ![Music](https://user-images.githubusercontent.com/22448079/172239704-02a6137a-83b6-4f12-a480-70891b2b76fb.png)
-- Featuring music primarily from the 50's and 60's, I tried my best to preserve the original style and feel of the original game while expanding on the selection of music 
+
+* Featuring music primarily from the '50s and '60s, I tried my best to preserve the original style and feel of the original game while expanding on the selection of music. According to Joshua Sawyer, the cutoff point for the music in-game was JFK's death in '63. I tried my best to stick to this but made some exceptions where I felt like it would be appropriate.
 
 ![Playlist](https://user-images.githubusercontent.com/22448079/172240229-d6e7f811-13af-48de-9a93-7da8c60bd3ec.png)
 <div align="center">
-<img src="https://user-images.githubusercontent.com/22448079/172241620-ba125f88-ff37-40cd-b306-8c73803f4874.png"</img>
- </div>
+
+<a href="https://open.spotify.com/playlist/689RjJnma7Rg9ijjGitLWq?si=49549c1165f14a89">
+  <img src="https://user-images.githubusercontent.com/22448079/172241620-ba125f88-ff37-40cd-b306-8c73803f4874.png">
+ </a>
 
 ![Favorite](https://user-images.githubusercontent.com/22448079/172240373-18d7d15f-6873-45e6-99e1-60fbc774daad.png)
 Some of my favorite tracks include
@@ -41,9 +48,7 @@ Some of my favorite tracks include
 - And many, many more! 
 
 **For a full list of all tracks included, see the [tracklist](TRACKLIST.md)!**
- 
-![Install](https://user-images.githubusercontent.com/22448079/172240403-0225333d-4069-40e7-8882-addadde86ae3.png)
-To install the mod, simply navigate to the [releases]() tab, download the .zip file and install with your mod installer of choice. I recommend Mod Organizer 2.
+
 
 ![FAQ](https://user-images.githubusercontent.com/22448079/172240431-67253bca-39ca-4f7f-8399-9a2063aba710.png)
 * Can I uninstall this mid-playthrough? 
