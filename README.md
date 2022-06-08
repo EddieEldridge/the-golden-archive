@@ -9,7 +9,13 @@
   <p>A Fallout: New Vegas mod that greatly extends Radio New Vegas with 200+ lore friendly tracks</p>
 </h3>
 
+
 ![Features](https://user-images.githubusercontent.com/22448079/172239735-1e0ab82a-c879-4ff6-900c-446461013add.png)
+
+<a  href="https://www.youtube.com/watch?v=JN9yceVkWwM">
+  <img src="https://user-images.githubusercontent.com/22448079/172727077-26790158-a54b-4332-b1bd-772d0e509651.png">
+</a>
+
 - Extends "Radio New Vegas" with 200+ lore friendly tracks, retaining Mr. New Vegas and the original music of the game
 -  Changes all world radios and jukeboxes that use "Mojave Radio" to "Radio New Vegas" allowing you to hear the new music naturally as well as on the Pip-Boy
 - All tracks have been normalized to keep audio levels in-line 
