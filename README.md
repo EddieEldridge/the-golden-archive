@@ -9,12 +9,12 @@
   <p>A Fallout: New Vegas mod that greatly extends Radio New Vegas with 200+ lore friendly tracks</p>
 </h3>
 
-
 ![Features](https://user-images.githubusercontent.com/22448079/172239735-1e0ab82a-c879-4ff6-900c-446461013add.png)
 
 <a  href="https://www.youtube.com/watch?v=JN9yceVkWwM">
   <img src="https://user-images.githubusercontent.com/22448079/172727077-26790158-a54b-4332-b1bd-772d0e509651.png">
 </a>
+
 
 - Extends "Radio New Vegas" with 200+ lore friendly tracks, retaining Mr. New Vegas and the original music of the game
 -  Changes all world radios and jukeboxes that use "Mojave Radio" to "Radio New Vegas" allowing you to hear the new music naturally as well as on the Pip-Boy
@@ -22,6 +22,9 @@
 
  
 ![Install](https://user-images.githubusercontent.com/22448079/172240403-0225333d-4069-40e7-8882-addadde86ae3.png)
+
+[![Build Status](https://img.shields.io/github/downloads/EddieEldridge/the-golden-archive/total?style=for-the-badge)](https://github.com/EddieEldridge/the-golden-archive/releases)
+
 To install the mod, simply navigate to the [releases](https://github.com/EddieEldridge/the-golden-archive/releases/latest) tab, download the .zip file and install with your mod manager of choice. I recommend Mod Organizer 2.
 
 ![Music](https://user-images.githubusercontent.com/22448079/172239704-02a6137a-83b6-4f12-a480-70891b2b76fb.png)
@@ -85,4 +88,3 @@ And many, many more!
 - lStewieAl's for his tweaks to the in-game radio with ["lStewieAl's Tweaks and Engine Fixes"](https://www.nexusmods.com/newvegas/mods/66347)
 
 - Mat, Bear and Megan for the song suggestions.
-
