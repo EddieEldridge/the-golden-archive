@@ -86,5 +86,5 @@ And many, many more!
 - Peter for his "[Foobar2000 - Text Tools plugin"](https://www.foobar2000.org/components/view/foo_texttools)
 - Epsil for his amazing website ["Spotify Playlist Generator"](https://epsil.github.io/spotgen/)
 - lStewieAl's for his tweaks to the in-game radio with ["lStewieAl's Tweaks and Engine Fixes"](https://www.nexusmods.com/newvegas/mods/66347)
-
+- _ALIEN_ for this [ED-E Radio](https://www.nexusmods.com/newvegas/mods/57324?tab=posts&BH=1)
 - Mat, Bear and Megan for the song suggestions.
